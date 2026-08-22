@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Glowing Aura Rings & Sparkle Center -->
+    <path
+        android:fillColor="#22D3EE"
+        android:pathData="M54,34 C42.95,34 34,42.95 34,54 C34,65.05 42.95,74 54,74 C65.05,74 74,65.05 74,54 C74,42.95 65.05,34 54,34 Z M54,68 C46.27,68 40,61.73 40,54 C40,46.27 46.27,40 54,40 C61.73,40 68,46.27 68,54 C68,61.73 61.73,68 54,68 Z" />
+    <path
+        android:fillColor="#EC4899"
+        android:pathData="M54,44 C48.48,44 44,48.48 44,54 C44,59.52 48.48,64 54,64 C59.52,64 64,59.52 64,54 C64,48.48 59.52,44 54,44 Z" />
+    <!-- Letter A center styling -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,48 L58,58 L50,58 Z" />
+</vector>

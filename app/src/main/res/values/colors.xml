@@ -1,0 +1,9 @@
+<resources>
+    <color name="bg_dark">#020611</color>
+    <color name="cyan_400">#22D3EE</color>
+    <color name="cyan_500">#06B6D4</color>
+    <color name="violet_500">#8B5CF6</color>
+    <color name="pink_500">#EC4899</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
